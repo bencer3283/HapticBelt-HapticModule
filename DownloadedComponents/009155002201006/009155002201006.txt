@@ -1,0 +1,54 @@
+# Created by Ultra Librarian 8.3.350 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CONN2_9155002_KAV")
+Pad (Name "1") (Location -49.2126, 19.85433006) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 87, 197) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 49.2126, 19.85433006) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 87, 197) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -108.5, 128.35433006) (End -108.5, -114.49996376) (Layer Mechanical15) 
+Line (Width 6) (Start -108.5, -114.49996376) (End 108.5, -114.49996376) (Layer Mechanical15) 
+Line (Width 6) (Start 108.5, -114.49996376) (End 108.5, 128.35433006) (Layer Mechanical15) 
+Line (Width 6) (Start 108.5, 128.35433006) (End -108.5, 128.35433006) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-108.5, 128.35433006)
+Point (-108.5, -114.49996376)
+Point (108.5, -114.49996376)
+Point (108.5, 128.35433006)
+EndPolygon
+Line (Width 6) (Start -103.5, -109.49996376) (End 103.5, -109.49996376) (Layer TopOverlay) 
+Line (Width 6) (Start 103.5, -109.49996376) (End 103.5, -86.07816691) (Layer TopOverlay) 
+Line (Width 6) (Start -103.5, -86.07816691) (End -103.5, -109.49996376) (Layer TopOverlay) 
+Arc (Width 20) (Radius 15) (Location -128.5, 19.85433006) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -98.5, -104.49997139) (End 98.5, -104.49997139) (Layer Mechanical13) 
+Line (Width 1) (Start 98.5, -104.49997139) (End 98.5, 104.49999809) (Layer Mechanical13) 
+Line (Width 1) (Start 98.5, 104.49999809) (End -98.5, 104.49999809) (Layer Mechanical13) 
+Line (Width 1) (Start -98.5, 104.49999809) (End -98.5, -104.49997139) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location -49.21260071, 94.85433006) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location -128.5, 19.85433006) (StartAngle 0) (EndAngle 360) (Layer BottomOverlay) 
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "009155002201006") (PartCount 1) (DesPrefix "J?")
+Pin (Location 200, 0) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 200, -100) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Line (Width 5) (Start 400, 0) (End 200, 0) (Part 1)
+Line (Width 5) (Start 400, -100) (End 200, -100) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, 33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -66.6667) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, -33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -133.3333) (Part 1)
+Rectangle (Width 5) (Start 200, -200) (End 500, 100) (Part 1)
+Parameter (Name "Type") (Location 400, 0) (Height 82) (Rotation 0) (Justification Center) (Value "Spring Loaded") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "KYOCERA AVX") (Part 1)
+Parameter (Name "RefDes") (Location 350, 250) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "CONN2_9155002_KAV")
+EndComponent
+EndComponents

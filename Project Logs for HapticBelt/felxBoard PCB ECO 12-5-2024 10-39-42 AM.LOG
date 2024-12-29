@@ -1,0 +1,56 @@
+Removed Member From Class: ClassName=lra_block Member=lra_block_1
+Removed Member From Class: ClassName=lra_block Member=lra_block_2
+Removed Member From Class: ClassName=lra_block Member=lra_block_3
+Removed Member From Class: ClassName=lra_block Member=lra_block_4
+Change Component Designator: OldDesignator=C1_lra_block_1 NewDesignator=C1_B1
+Change Component Designator: OldDesignator=C1_lra_block_2 NewDesignator=C1_B2
+Change Component Designator: OldDesignator=C1_lra_block_3 NewDesignator=C1_B3
+Change Component Designator: OldDesignator=C1_lra_block_4 NewDesignator=C1_B4
+Change Component Designator: OldDesignator=C2_lra_block_1 NewDesignator=C2_B1
+Change Component Designator: OldDesignator=C2_lra_block_2 NewDesignator=C2_B2
+Change Component Designator: OldDesignator=C2_lra_block_3 NewDesignator=C2_B3
+Change Component Designator: OldDesignator=C2_lra_block_4 NewDesignator=C2_B4
+Change Component Designator: OldDesignator=LRA+_lra_block_1 NewDesignator=LRA+_B1
+Change Component Designator: OldDesignator=LRA+_lra_block_2 NewDesignator=LRA+_B2
+Change Component Designator: OldDesignator=LRA+_lra_block_3 NewDesignator=LRA+_B3
+Change Component Designator: OldDesignator=LRA+_lra_block_4 NewDesignator=LRA+_B4
+Change Component Designator: OldDesignator=LRA-_lra_block_1 NewDesignator=LRA-_B1
+Change Component Designator: OldDesignator=LRA-_lra_block_2 NewDesignator=LRA-_B2
+Change Component Designator: OldDesignator=LRA-_lra_block_3 NewDesignator=LRA-_B3
+Change Component Designator: OldDesignator=LRA-_lra_block_4 NewDesignator=LRA-_B4
+Change Component Designator: OldDesignator=R1_lra_block_1 NewDesignator=R1_B1
+Change Component Designator: OldDesignator=R1_lra_block_2 NewDesignator=R1_B2
+Change Component Designator: OldDesignator=R1_lra_block_3 NewDesignator=R1_B3
+Change Component Designator: OldDesignator=R1_lra_block_4 NewDesignator=R1_B4
+Change Component Designator: OldDesignator=R2_lra_block_1 NewDesignator=R2_B1
+Change Component Designator: OldDesignator=R2_lra_block_2 NewDesignator=R2_B2
+Change Component Designator: OldDesignator=R2_lra_block_3 NewDesignator=R2_B3
+Change Component Designator: OldDesignator=R2_lra_block_4 NewDesignator=R2_B4
+Change Component Designator: OldDesignator=U1_lra_block_1 NewDesignator=U1_B1
+Change Component Designator: OldDesignator=U1_lra_block_2 NewDesignator=U1_B2
+Change Component Designator: OldDesignator=U1_lra_block_3 NewDesignator=U1_B3
+Change Component Designator: OldDesignator=U1_lra_block_4 NewDesignator=U1_B4
+Change Net Name : Old Net Name=3V3_lra_block_1 New Net Name=3V3_B1
+Change Net Name : Old Net Name=GND_lra_block_1 New Net Name=GND_B1
+Change Net Name : Old Net Name=NetLRA+_lra_block_1_1 New Net Name=NetLRA+_B1_1
+Change Net Name : Old Net Name=NetLRA+_lra_block_2_1 New Net Name=NetLRA+_B2_1
+Change Net Name : Old Net Name=NetLRA+_lra_block_3_1 New Net Name=NetLRA+_B3_1
+Change Net Name : Old Net Name=NetLRA+_lra_block_4_1 New Net Name=NetLRA+_B4_1
+Change Net Name : Old Net Name=NetLRA-_lra_block_1_1 New Net Name=NetLRA-_B1_1
+Change Net Name : Old Net Name=NetLRA-_lra_block_2_1 New Net Name=NetLRA-_B2_1
+Change Net Name : Old Net Name=NetLRA-_lra_block_3_1 New Net Name=NetLRA-_B3_1
+Change Net Name : Old Net Name=NetLRA-_lra_block_4_1 New Net Name=NetLRA-_B4_1
+Change Net Name : Old Net Name=REG_lra_block_1 New Net Name=REG_B1
+Change Net Name : Old Net Name=REG_lra_block_2 New Net Name=REG_B2
+Change Net Name : Old Net Name=REG_lra_block_3 New Net Name=REG_B3
+Change Net Name : Old Net Name=REG_lra_block_4 New Net Name=REG_B4
+Change Class Name : Old Net Name=lra_block_1 New Net Name=B1
+Change Class Name : Old Net Name=lra_block_2 New Net Name=B2
+Change Class Name : Old Net Name=lra_block_3 New Net Name=B3
+Change Class Name : Old Net Name=lra_block_4 New Net Name=B4
+Added Member To Class: ClassName=lra_block Member=B1 (lra_block.SchDoc)
+Added Member To Class: ClassName=lra_block Member=B2 (lra_block.SchDoc)
+Added Member To Class: ClassName=lra_block Member=B3 (lra_block.SchDoc)
+Added Member To Class: ClassName=lra_block Member=B4 (lra_block.SchDoc)
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SDA Pin=R1-1
+Removed Pin From Net: NetName=3V3_B1 Pin=R1-2
+Removed Pin From Net: NetName=SCL Pin=R2-1
+Removed Pin From Net: NetName=3V3_B1 Pin=R2-2
+Removed Member From Class: ClassName=haptic_module Member=R1
+Removed Member From Class: ClassName=haptic_module Member=R2
+Added Member To Class: ClassName=B2 Member=Component U1_B2 (U1) DRV2605LDGSR

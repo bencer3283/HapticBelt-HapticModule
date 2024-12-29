@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=SDA Pin=J3-1
+Removed Pin From Net: NetName=SCL Pin=J4-1
+Removed Pin From Net: NetName=GND_B1 Pin=J5-1
+Removed Pin From Net: NetName=SDA1 Pin=J6-1
+Removed Pin From Net: NetName=SCL1 Pin=J7-1
+Removed Pin From Net: NetName=SDA2 Pin=J8-1
+Removed Pin From Net: NetName=SCL2 Pin=J9-1
+Removed Pin From Net: NetName=SDA3 Pin=J10-1
+Removed Pin From Net: NetName=SCL3 Pin=J11-1
+Removed Pin From Net: NetName=SDA4 Pin=J12-1
+Removed Pin From Net: NetName=SCL4 Pin=J13-1
+Removed Member From Class: ClassName=haptic_module Member=J3
+Removed Member From Class: ClassName=haptic_module Member=J4
+Removed Member From Class: ClassName=haptic_module Member=J5
+Removed Member From Class: ClassName=haptic_module Member=J6
+Removed Member From Class: ClassName=haptic_module Member=J7
+Removed Member From Class: ClassName=haptic_module Member=J8
+Removed Member From Class: ClassName=haptic_module Member=J9
+Removed Member From Class: ClassName=haptic_module Member=J10
+Removed Member From Class: ClassName=haptic_module Member=J11
+Removed Member From Class: ClassName=haptic_module Member=J12
+Removed Member From Class: ClassName=haptic_module Member=J13
+Added Component: Designator=TP0(PCBCOMPONENT_1)
+Added Component: Designator=TP1(PCBCOMPONENT_1)
+Added Component: Designator=TP2(PCBCOMPONENT_1)
+Added Component: Designator=TP3(PCBCOMPONENT_1)
+Added Component: Designator=TP4(PCBCOMPONENT_1)
+Added Component: Designator=TP5(PCBCOMPONENT_1)
+Added Component: Designator=TP6(PCBCOMPONENT_1)
+Added Component: Designator=TP7(PCBCOMPONENT_1)
+Added Component: Designator=TP8(PCBCOMPONENT_1)
+Added Component: Designator=TP9(PCBCOMPONENT_1)
+Added Component: Designator=TP10(PCBCOMPONENT_1)
+Added Pin To Net: NetName=SDA Pin=TP0-0
+Added Pin To Net: NetName=SCL Pin=TP1-0
+Added Pin To Net: NetName=GND_B1 Pin=TP2-0
+Added Pin To Net: NetName=SDA1 Pin=TP3-0
+Added Pin To Net: NetName=SCL1 Pin=TP4-0
+Added Pin To Net: NetName=SDA2 Pin=TP5-0
+Added Pin To Net: NetName=SCL2 Pin=TP6-0
+Added Pin To Net: NetName=SDA3 Pin=TP7-0
+Added Pin To Net: NetName=SCL3 Pin=TP8-0
+Added Pin To Net: NetName=SDA4 Pin=TP9-0
+Added Pin To Net: NetName=SCL4 Pin=TP10-0
+Added Member To Class: ClassName=haptic_module Member=Component TP0 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP1 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP2 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP3 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP4 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP5 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP6 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP7 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP8 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP9 pin
+Added Member To Class: ClassName=haptic_module Member=Component TP10 pin

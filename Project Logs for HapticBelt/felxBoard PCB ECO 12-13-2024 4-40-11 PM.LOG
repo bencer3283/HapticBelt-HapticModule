@@ -1,0 +1,56 @@
+Removed Member From Class: ClassName=B1 Member=LRA+_B1
+Removed Member From Class: ClassName=B2 Member=LRA+_B2
+Removed Member From Class: ClassName=B3 Member=LRA+_B3
+Removed Member From Class: ClassName=B4 Member=LRA+_B4
+Removed Member From Class: ClassName=B1 Member=LRA-_B1
+Removed Member From Class: ClassName=B2 Member=LRA-_B2
+Removed Member From Class: ClassName=B3 Member=LRA-_B3
+Removed Member From Class: ClassName=B4 Member=LRA-_B4
+Added Component: Designator=P1_B1(TE2343297-2)
+Added Component: Designator=P1_B2(TE2343297-2)
+Added Component: Designator=P1_B3(TE2343297-2)
+Added Component: Designator=P1_B4(TE2343297-2)
+Added Component: Designator=P2_B1(TE2343297-2)
+Added Component: Designator=P2_B2(TE2343297-2)
+Added Component: Designator=P2_B3(TE2343297-2)
+Added Component: Designator=P2_B4(TE2343297-2)
+Added Pin To Net: NetName=NetP1_B1_0 Pin=P1_B1-0
+Added Pin To Net: NetName=NetP1_B1_0 Pin=P1_B1-0
+Added Pin To Net: NetName=NetP1_B1_0 Pin=U1_B1-7
+Added Net: Name=NetP1_B1_0
+Added Pin To Net: NetName=NetP1_B2_0 Pin=P1_B2-0
+Added Pin To Net: NetName=NetP1_B2_0 Pin=P1_B2-0
+Added Pin To Net: NetName=NetP1_B2_0 Pin=U1_B2-7
+Added Net: Name=NetP1_B2_0
+Added Pin To Net: NetName=NetP1_B3_0 Pin=P1_B3-0
+Added Pin To Net: NetName=NetP1_B3_0 Pin=P1_B3-0
+Added Pin To Net: NetName=NetP1_B3_0 Pin=U1_B3-7
+Added Net: Name=NetP1_B3_0
+Added Pin To Net: NetName=NetP1_B4_0 Pin=P1_B4-0
+Added Pin To Net: NetName=NetP1_B4_0 Pin=P1_B4-0
+Added Pin To Net: NetName=NetP1_B4_0 Pin=U1_B4-7
+Added Net: Name=NetP1_B4_0
+Added Pin To Net: NetName=NetP2_B1_0 Pin=P2_B1-0
+Added Pin To Net: NetName=NetP2_B1_0 Pin=P2_B1-0
+Added Pin To Net: NetName=NetP2_B1_0 Pin=U1_B1-9
+Added Net: Name=NetP2_B1_0
+Added Pin To Net: NetName=NetP2_B2_0 Pin=P2_B2-0
+Added Pin To Net: NetName=NetP2_B2_0 Pin=P2_B2-0
+Added Pin To Net: NetName=NetP2_B2_0 Pin=U1_B2-9
+Added Net: Name=NetP2_B2_0
+Added Pin To Net: NetName=NetP2_B3_0 Pin=P2_B3-0
+Added Pin To Net: NetName=NetP2_B3_0 Pin=P2_B3-0
+Added Pin To Net: NetName=NetP2_B3_0 Pin=U1_B3-9
+Added Net: Name=NetP2_B3_0
+Added Pin To Net: NetName=NetP2_B4_0 Pin=P2_B4-0
+Added Pin To Net: NetName=NetP2_B4_0 Pin=P2_B4-0
+Added Pin To Net: NetName=NetP2_B4_0 Pin=U1_B4-9
+Added Net: Name=NetP2_B4_0
+Added Member To Class: ClassName=B1 Member=Component P1_B1 (P1) TE2343297-2
+Added Member To Class: ClassName=B2 Member=Component P1_B2 (P1) TE2343297-2
+Added Member To Class: ClassName=B3 Member=Component P1_B3 (P1) TE2343297-2
+Added Member To Class: ClassName=B4 Member=Component P1_B4 (P1) TE2343297-2
+Added Member To Class: ClassName=B1 Member=Component P2_B1 (P2) TE2343297-2
+Added Member To Class: ClassName=B2 Member=Component P2_B2 (P2) TE2343297-2
+Added Member To Class: ClassName=B3 Member=Component P2_B3 (P2) TE2343297-2
+Added Member To Class: ClassName=B4 Member=Component P2_B4 (P2) TE2343297-2
