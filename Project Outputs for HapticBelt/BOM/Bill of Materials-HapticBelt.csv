@@ -1,0 +1,10 @@
+Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"","CC0805KKX7R7BB105","CAP CER 1UF 16V X7R 0805","C1, C1_B1, C1_B2, C1_B3, C1_B4, C2_B1, C2_B2, C2_B3, C2_B4","CMP-03422-000001-1","New From Design","Up to date","9","Yageo","CC0805KKX7R7BB105","Volume Production","Mouser","603-CC805KKX7R7BB105","0.041","0.41"
+"","TCA9544APWR","No Description Available","I2C_MUX","","Not managed","","1","","","","","","",""
+"","522070660","No Description Available","P1, P2","","Not managed","","2","","","","","","",""
+"","TE2343297-2","TE2343297-2","P1_B1, P1_B2, P1_B3, P1_B4, P2_B1, P2_B2, P2_B3, P2_B4","","Not managed","","8","","","","","","",""
+"","RT0603BRE0710KL","RES SMD 10K OHM 0.1% 1/10W 0603","R1_B1, R1_B2, R1_B3, R1_B4, R2_B1, R2_B2, R2_B3, R2_B4, R9, R10, R11, R12, R13","CMP-2000-04517-2","New From Design","Up to date","13","Yageo","RT0603BRE0710KL","Volume Production","Newark","49AK4337","0.073","0.949"
+"","RC0603JR-070RL","Chip Resistor, 0 Ohm, +/- 5%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel","RA0G, RA0V, RA1G, RA1V, RA2G, RA2V","CMP-2100-03667-1","Released","Up to date","6","Yageo","RC0603JR-070RL","Volume Production","Mouser","603-RC0603JR-070RL","0.004","0.04"
+"","pin","","TP0, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10","","Not managed","","11","","","","","","",""
+"","DRV2605LDGSR","No Description Available","U1_B1, U1_B2, U1_B3, U1_B4","","Not managed","","4","","","","","","",""

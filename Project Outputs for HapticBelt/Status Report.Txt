@@ -1,13 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [felxBoard.PcbDoc]
-   Generated File[felxBoard.TXT]
-   Generated File[felxBoard.DRL]
-   Generated File[felxBoard.LDP]
-   Generated File[felxBoard.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:43:42 PM On 1/15/2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : BOM Document [HapticBelt.BomDoc]
+   Generated File[Bill of Materials-HapticBelt.csv]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:16:34 PM On 12/22/2024
+Finished Output Generation At 3:43:45 PM On 1/15/2025
